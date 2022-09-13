@@ -16,7 +16,7 @@ Making it impossible to monitor and link them to your Mojang/Microsoft account o
 
 <h1> The Development Team </h1>
 
-This plugin was written by Lunatic205, the main developer, and 2995, the main graphic designer.
+This plugin was developed by Lunatic205, the main developer, and 2995, the main graphic designer.
 
 If you come across any bugs, please let us know.
 
