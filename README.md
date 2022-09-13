@@ -1,5 +1,5 @@
 
-![Anti-Chat-Report](https://user-images.githubusercontent.com/62179704/190008809-f3ce7493-1b34-4712-9517-fc2cc33cabae.png)
+![Anti-Chat-Report](https://user-images.githubusercontent.com/62179704/190010585-b96241b1-335b-497b-a1c0-60101f5f6475.png)
 
 <h1> Version </h1>
 
