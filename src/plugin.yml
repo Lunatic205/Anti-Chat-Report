@@ -1,0 +1,6 @@
+name: ReportDisabler
+main: me.lunatic205.reportdisable.MessageUnsigner
+version: 1.0
+author: tacofucker
+api-version: 1.13
+description: stops reportings
