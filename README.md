@@ -1,5 +1,5 @@
 
-![alt text](https://ibb.co/6gsqBsT)
+![](https://ibb.co/6gsqBsT)
 
 <h1> Version </h1>
 
