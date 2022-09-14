@@ -1,5 +1,5 @@
-name: ReportDisabler
-main: me.lunatic205.reportdisable.MessageUnsigner
+name: reportdisabler
+main: me.lunatic205.reportdisabler.AntiChatReport
 version: 1.0.5
 author: lunatic205
 api-version: 1.13
